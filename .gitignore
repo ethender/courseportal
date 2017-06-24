@@ -1,1 +1,6 @@
 target/
+
+##not should be synced
+.classpath
+.project
+.settings
